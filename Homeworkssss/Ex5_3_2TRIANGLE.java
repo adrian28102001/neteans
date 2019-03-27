@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class triangleproblem {
+public class Ex5_3_2TRIANGLE {
     public static void main(String[] args){
         
         

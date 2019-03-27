@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class Homeworkssss{
+public class Ex4_7Converter{
     
     public static void main(String[] args) {
     System.out.println("Introduceti nr de minute");

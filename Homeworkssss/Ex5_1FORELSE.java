@@ -7,7 +7,7 @@ package Homeworkssss;
 
 import java.util.Scanner;
 
-public class If {
+public class Ex5_1FORELSE {
 
     public static void main(String[] args) {
 

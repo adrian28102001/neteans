@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class HomeworkSwitch {
+public class Ex5_6SWITCH {
 
     public static void main(String[] args) {
 

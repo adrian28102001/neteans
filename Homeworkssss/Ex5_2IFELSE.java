@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class ComparingNumbers {
+public class Ex5_2IFELSE {
     public static void main (String[] args){
         Scanner sc= new Scanner (System.in);
         int x = sc.nextInt();

@@ -9,6 +9,14 @@ package Homeworkssss;
  *
  * @author gherm
  */
-public class SwitchOperations {
+public class Ex4_11Increment {
+    public static void main(String[] args) {
+        int a=10; int sum4;
+       sum4 = --a + a + ++a - ++a + a--;
+        System.out.println(sum4);
+        
+        
+    }
+    
     
 }

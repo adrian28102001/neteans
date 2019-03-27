@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class Years {
+public class Ex4_6Converter {
     
     
     

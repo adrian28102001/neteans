@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class ForLoop {
+public class Ex5_11Loop{
 
     public static void main(String[] args) {
          System.out.println("Insert your number");

@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class PossitiveOrNegative {
+public class Ex5_3_1COMPARING {
       public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

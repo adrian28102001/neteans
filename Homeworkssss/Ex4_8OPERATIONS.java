@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class Operations {
+public class Ex4_8OPERATIONS {
     
     
     public static void main(String[] args) {

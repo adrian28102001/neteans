@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class HomeworkSwitchDay {
+public class Ex5_7SWITCH {
 
     public static void main(String[] args) {
 
@@ -36,10 +36,10 @@ public class HomeworkSwitchDay {
             case "Friday":
                 System.out.println("Monday,Wednesday and Friday we had lessons");
                 break;
-                case "Saturday":
+            case "Saturday":
                 System.out.println("Monday,Wednesday and Friday we had lessons");
                 break;
-                case "Sunday":
+            case "Sunday":
                 System.out.println("Monday,Wednesday and Friday we had lessons");
                 break;
             default:

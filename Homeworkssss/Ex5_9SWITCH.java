@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author gherm
  */
-public class SwitchOperation {
+public class Ex5_9SWITCH {
 
     public static void main(String[] args) {
 
@@ -44,7 +44,7 @@ public class SwitchOperation {
                     System.out.println("Fail");
                     break;
                 case (3):
-                    System.out.println("VFail");
+                    System.out.println("Fail");
                     break;
                 case (2):
                     System.out.println("Fail");

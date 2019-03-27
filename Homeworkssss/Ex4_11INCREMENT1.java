@@ -9,7 +9,7 @@ package Homeworkssss;
  *
  * @author gherm
  */
-public class test {
+public class Ex4_11INCREMENT1 {
    public static void main(String[] args) {
        int a=10;
        int sum1,sum2,sum3,sum4;
